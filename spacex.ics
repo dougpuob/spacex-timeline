@@ -22,7 +22,7 @@ TZOFFSETTO:+0800
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Falcon 9 USSF-317（范登堡）
+SUMMARY:[SPCX] [官方] Falcon 9 USSF-317（范登堡）
 DTSTART:20261118T031400Z
 DTEND:20261118T071400Z
 DTSTAMP:20261114T231500Z
@@ -47,7 +47,7 @@ TRANSP:TRANSPARENT
 URL:https://www.spacex.com/launches/ussf317
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Falcon 9 NROL-136（范登堡）
+SUMMARY:[SPCX] [官方] Falcon 9 NROL-136（范登堡）
 DTSTART:20261121T123000Z
 DTEND:20261121T130000Z
 DTSTAMP:20261114T231500Z
@@ -70,7 +70,7 @@ TRANSP:TRANSPARENT
 URL:https://www.spacex.com/launches/nrol136
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Falcon 9 USSF-266（范登堡）
+SUMMARY:[SPCX] [官方] Falcon 9 USSF-266（范登堡）
 DTSTART:20261123T160400Z
 DTEND:20261123T200400Z
 DTSTAMP:20261114T231500Z
@@ -94,7 +94,7 @@ TRANSP:TRANSPARENT
 URL:https://www.spacex.com/launches/ussf266
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] CRS-35 Dragon 返回地球（2026年11月，日期
+SUMMARY:[SPCX] [官方] CRS-35 Dragon 返回地球（2026年11月，日期
  待公布）
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
@@ -122,7 +122,7 @@ TRANSP:TRANSPARENT
 URL:https://www.spacex.com/launches/next-launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 Cygnus CRS NG-25（卡納維爾角）
+SUMMARY:[SPCX] [媒體] Falcon 9 Cygnus CRS NG-25（卡納維爾角）
 DTSTART:20261129T154700Z
 DTEND:20261129T164700Z
 DTSTAMP:20261114T231500Z
@@ -145,7 +145,8 @@ TRANSP:TRANSPARENT
 URL:https://nextspaceflight.com/launches/details/7076/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 NROL-195（范登堡，NET 2026年11月）
+SUMMARY:[SPCX] [媒體] Falcon 9 NROL-195（范登堡，NET 2026年11月
+ ）
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 DTSTAMP:20261114T231500Z
@@ -167,7 +168,7 @@ TRANSP:TRANSPARENT
 URL:https://api.nextspaceflight.com/launches/agency/upcoming/1/?search=
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 OneWeb #21（范登堡，NET 2026年11月
+SUMMARY:[SPCX] [媒體] Falcon 9 OneWeb #21（范登堡，NET 2026年11月
  ）
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
@@ -189,8 +190,8 @@ TRANSP:TRANSPARENT
 URL:https://api.nextspaceflight.com/launches/agency/upcoming/1/?search=
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 CHORUS（卡納維爾角，NET 2026年12月
- ）
+SUMMARY:[SPCX] [媒體] Falcon 9 CHORUS（卡納維爾角，NET 2026年12
+ 月）
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 DTSTAMP:20261114T231500Z
@@ -211,8 +212,8 @@ TRANSP:TRANSPARENT
 URL:https://api.nextspaceflight.com/launches/agency/upcoming/1/?search=
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 Globalstar 2-R Mission 2（卡納維爾角
- ，NET 2026年12月）
+SUMMARY:[SPCX] [媒體] Falcon 9 Globalstar 2-R Mission 2（卡納維爾
+ 角，NET 2026年12月）
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 DTSTAMP:20261114T231500Z
@@ -233,8 +234,8 @@ TRANSP:TRANSPARENT
 URL:https://api.nextspaceflight.com/launches/agency/upcoming/1/?search=
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Starship Ship 43 靜態点火（Starbase，約 2026
- 年12月中）
+SUMMARY:[SPCX] [媒體] Starship Ship 43 靜態点火（Starbase，約 202
+ 6年12月中）
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 DTSTAMP:20261114T231500Z
@@ -258,8 +259,8 @@ TRANSP:TRANSPARENT
 URL:https://www.starbaseevents.com/flights/16
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Starship Flight 16：預計首次自佛羅里達 LC-
- 39A 發射（約 2027 年初，官方尚未宣布日期）
+SUMMARY:[SPCX] [媒體] Starship Flight 16：預計首次自佛羅里達 L
+ C-39A 發射（約 2027 年初，官方尚未宣布日期）
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 DTSTAMP:20261114T231500Z
@@ -290,7 +291,8 @@ TRANSP:TRANSPARENT
 URL:https://www.starbaseevents.com/flights/16
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon Heavy Griffin Mission One（NET 2027-01-06）
+SUMMARY:[SPCX] [媒體] Falcon Heavy Griffin Mission One（NET 2027-01-06
+ ）
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 DTSTAMP:20261114T231500Z
@@ -314,8 +316,8 @@ TRANSP:TRANSPARENT
 URL:https://www.nextspaceflight.com/launches/details/6759/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Crew Dragon Axiom Mission 5（Ax-5，NET 2027年1月
- ）
+SUMMARY:[SPCX] [媒體] Crew Dragon Axiom Mission 5（Ax-5，NET 2027年1
+ 月）
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 DTSTAMP:20261114T231500Z
@@ -339,7 +341,7 @@ TRANSP:TRANSPARENT
 URL:https://www.nextspaceflight.com/launches/details/8159/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 發射 Vast Haven-1 商業太空站（目
+SUMMARY:[SPCX] [媒體] Falcon 9 發射 Vast Haven-1 商業太空站（目
  標 2027 年年初／第一季）
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
@@ -364,8 +366,8 @@ TRANSP:TRANSPARENT
 URL:https://www.vastspace.com/haven-1
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Starship 上層級（飛船）首次再飛（目標 
- 2027 年年初）
+SUMMARY:[SPCX] [官方] Starship 上層級（飛船）首次再飛（目
+ 標 2027 年年初）
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 DTSTAMP:20261114T231500Z
@@ -390,8 +392,8 @@ URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
  kly-starship-launches-by-early-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 Intuitive Machines IM-3（Nova-C，NET 2027
-  第一季）
+SUMMARY:[SPCX] [媒體] Falcon 9 Intuitive Machines IM-3（Nova-C，NET 20
+ 27 第一季）
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 DTSTAMP:20261114T231500Z
@@ -412,7 +414,7 @@ TRANSP:TRANSPARENT
 URL:https://www.nextspaceflight.com/launches/details/6826/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Crew Dragon Crew-14（NET 2027年3月）
+SUMMARY:[SPCX] [媒體] Crew Dragon Crew-14（NET 2027年3月）
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 DTSTAMP:20261114T231500Z
@@ -435,8 +437,8 @@ TRANSP:TRANSPARENT
 URL:https://www.nextspaceflight.com/launches/details/6972/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Starship 軌道推進劑轉注演示（目標 2027 
- 年年初／第一季）
+SUMMARY:[SPCX] [官方] Starship 軌道推進劑轉注演示（目標 2027
+  年年初／第一季）
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 DTSTAMP:20261114T231500Z
@@ -466,7 +468,8 @@ URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
  kly-starship-launches-by-early-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Crew-13 Dragon 返回地球（目標 2027年4月）
+SUMMARY:[SPCX] [官方] Crew-13 Dragon 返回地球（目標 2027年4月
+ ）
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 DTSTAMP:20261114T231500Z
@@ -489,8 +492,8 @@ TRANSP:TRANSPARENT
 URL:https://www.spacex.com/launches/next-launch
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] Falcon 9 土耳其月球任務 TLM-1（NET 2027年4
- 月）
+SUMMARY:[SPCX] [媒體] Falcon 9 土耳其月球任務 TLM-1（NET 2027年
+ 4月）
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 DTSTAMP:20261114T231500Z
@@ -511,8 +514,8 @@ TRANSP:TRANSPARENT
 URL:https://api.nextspaceflight.com/launches/agency/upcoming/1/?search=
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Elon：Starship 力拚 2027 上半年達到每週發
- 射
+SUMMARY:[SPCX] [官方] Elon：Starship 力拚 2027 上半年達到每週
+ 發射
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 DTSTAMP:20261114T231500Z
@@ -536,8 +539,8 @@ URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
  kly-starship-launches-by-early-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] 2027 年 Starship 持續部署 Starlink V3，並發
- 射 Starmind 資料中心原型
+SUMMARY:[SPCX] [官方] 2027 年 Starship 持續部署 Starlink V3，並
+ 發射 Starmind 資料中心原型
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 DTSTAMP:20261114T231500Z
@@ -569,8 +572,8 @@ URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
  kly-starship-launches-by-early-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Artemis III：Orion 與 Starship 測試載具在近
- 地軌道對接演示（目標 2027 年）
+SUMMARY:[SPCX] [官方] Artemis III：Orion 與 Starship 測試載具在
+ 近地軌道對接演示（目標 2027 年）
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
 DTSTAMP:20261114T231500Z
@@ -603,8 +606,8 @@ URL:https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-tes
  t-future-moon-lander-operations/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Starship HLS 無人登月演示（須在 2028 載人
- 登月前完成，日期未定）
+SUMMARY:[SPCX] [官方] Starship HLS 無人登月演示（須在 2028 載
+ 人登月前完成，日期未定）
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271116
 DTSTAMP:20261114T231500Z
@@ -635,8 +638,8 @@ URL:https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-
  development-for-2028-moon-missions/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Elon：Starship 力拚 2027 下半年達到每週兩
- 次發射
+SUMMARY:[SPCX] [官方] Elon：Starship 力拚 2027 下半年達到每週
+ 兩次發射
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 DTSTAMP:20261114T231500Z
@@ -658,8 +661,8 @@ URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
  kly-starship-launches-by-early-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] SpaceX／xAI 相關：2027 年力拚地面運算達
- 約 10 GW（財報會目標）
+SUMMARY:[SPCX] [官方] SpaceX／xAI 相關：2027 年力拚地面運算
+ 達約 10 GW（財報會目標）
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
 DTSTAMP:20261114T231500Z
@@ -685,8 +688,8 @@ URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
  kly-starship-launches-by-early-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [官方] Artemis IV：目標 2028 年載人重返月球（Sta
- rship 或 Blue Moon，尚未指派）
+SUMMARY:[SPCX] [官方] Artemis IV：目標 2028 年載人重返月球（S
+ tarship 或 Blue Moon，尚未指派）
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 DTSTAMP:20261114T231500Z
@@ -714,8 +717,8 @@ URL:https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-
  artemis-return-to-moon/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SPCX [媒體] 無人 Starship 火星貨運：改為不早於 2028
- ／2029 發射窗口（已放棄 2026 窗口）
+SUMMARY:[SPCX] [媒體] 無人 Starship 火星貨運：改為不早於 202
+ 8／2029 發射窗口（已放棄 2026 窗口）
 DTSTART;VALUE=DATE:20281202
 DTEND;VALUE=DATE:20281203
 DTSTAMP:20261114T231500Z
