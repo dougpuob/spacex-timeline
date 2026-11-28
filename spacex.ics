@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALDESC:SpaceX 近期發射與中長期計畫時間表。標籤：[
  官方]／[Elon X]／[媒體]／[媒體/傳聞]。模糊目標（季度、
  年底）會放在估算日期，詳見事件說明。最後核對：2026-
- 11-26（Asia/Taipei）。
+ 11-28（Asia/Taipei）。
 X-WR-CALNAME:SpaceX 時間表
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -25,12 +25,12 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [官方] Falcon 9 USSF-317（范登堡）（已發射）
 DTSTART:20261121T042035Z
 DTEND:20261121T045000Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:ussf-317-2026@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:美國太空軍 USSF-317 任務：Falcon 9 自加州范登堡 
  SLC-4E 發射，一級計畫降落太平洋無人船 Of Course I Still Lov
  e You。屬機密載荷，發射窗口長 4 小時。\n已發射（2026-11
@@ -65,8 +65,8 @@ DESCRIPTION:美國太空軍 USSF-317 任務：Falcon 9 自加州范登堡
  ied-payload-for-the-u-s-space-force-2/\nhttps://santabarbaratimes.com/news
  /spacex-scrubs-ussf-317-thursday-retargets-friday-evening/\nhttps://www.sp
  ace.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-s
- pace-force-launch-ussf-317\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ pace-force-launch-ussf-317\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-4E\, Vandenberg SFB\, California
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -76,12 +76,12 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [官方] Falcon 9 NROL-136（范登堡）（已發射）
 DTSTART:20261122T122356Z
 DTEND:20261122T125356Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:nrol-136-2026@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:國家偵察局 NROL-136 任務：Falcon 9 自范登堡 SLC-4E
   發射，一級計畫降落 LZ-4。屬機密載荷。\n已發射（2026-1
  1-23 核對）：Falcon 9 於 2026-11-22 04:23 PT（07:23 ET，UTC 12:23:5
@@ -119,9 +119,9 @@ DESCRIPTION:國家偵察局 NROL-136 任務：Falcon 9 自范登堡 SLC-4E
  usk/status/2124589255565680900\nhttps://www.space.com/space-exploration/la
  unches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-archit
  ecture\nhttps://www.noozhawk.com/spacex-west-coast-team-sets-record-with-q
- uick-turnaround-between-falcon-liftoffs/\n最後核對：2026-11-26（Asia
+ uick-turnaround-between-falcon-liftoffs/\n最後核對：2026-11-28（Asia
  /Taipei）
-LAST-MODIFIED:20261126T003000Z
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-4E\, Vandenberg SFB\, California
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -131,12 +131,12 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [官方] Falcon 9 USSF-266（范登堡）（已發射）
 DTSTART:20261124T160859Z
 DTEND:20261124T163859Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:ussf-266-2026@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:美國太空軍 USSF-266 任務：Falcon 9 自范登堡 SLC-4E
   發射，一級計畫降落太平洋無人船 Of Course I Still Love You
  。屬機密載荷，發射窗口長 4 小時。\n已發射（2026-11-25 
@@ -162,9 +162,9 @@ DESCRIPTION:美國太空軍 USSF-266 任務：Falcon 9 自范登堡 SLC-4E
  ed-payload-for-the-u-s-space-force-3/\nhttps://www.space.com/space-explora
  tion/launches-spacecraft/spacex-launches-secretive-spy-satellites-from-cal
  ifornia-for-us-space-force-video\nhttps://ll.thespacedevs.com/2.2.0/launch
- /460d9db7-eaf6-4cd9-b095-cff433534c09/\n最後核對：2026-11-26（Asia/T
+ /460d9db7-eaf6-4cd9-b095-cff433534c09/\n最後核對：2026-11-28（Asia/T
  aipei）
-LAST-MODIFIED:20261126T003000Z
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-4E\, Vandenberg SFB\, California
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -174,12 +174,12 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [官方] Falcon 9 USSF-380（范登堡）
 DTSTART:20261129T043900Z
 DTEND:20261129T083900Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:ussf-380-2026@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:美國太空軍 USSF-380 任務：Falcon 9 自范登堡 SLC-4E
   發射，一級（第 27 次飛行）計畫降落太平洋無人船 Of Co
  urse I Still Love You。屬機密載荷，發射窗口長 4 小時。\n更
@@ -195,8 +195,8 @@ DESCRIPTION:美國太空軍 USSF-380 任務：Falcon 9 自范登堡 SLC-4E
  射窗口，實際升空時刻仍可能滑移）。\n參考來源：\nhttp
  s://www.spacex.com/launches/ussf380\nhttps://www.spacex.com/launches/Launc
  hes\nhttps://nextliftoff.com/launch/ussf-380-b0d27def\n最後核對：2026
- -11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ -11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-4E\, Vandenberg SFB\, California
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -207,12 +207,12 @@ SUMMARY:[SPCX] [官方] CRS-35 Dragon 濺落返回（加州外海）（已
  完成）
 DTSTART:20261121T220400Z
 DTEND:20261121T230400Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:crs-35-return-2026@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:CRS-35 Dragon 貨運飛船離開國際太空站並返回地球
  （返回事件，不是發射），帶回 3D 生物列印血管構造、
  冷凍腫瘤類器官、抗藥性細菌樣本等研究物資。\n已完成
@@ -248,9 +248,9 @@ DESCRIPTION:CRS-35 Dragon 貨運飛船離開國際太空站並返回地球
  /20/dragon-undocks-from-station-packed-with-science-and-cargo/\nhttps://ww
  w.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss
  -cargo-mission-return-to-earth\nhttps://mynewsla.com/life/2026/11/21/space
- x-dragon-splashes-down-off-la-coast/\n最後核對：2026-11-26（Asia/Tai
+ x-dragon-splashes-down-off-la-coast/\n最後核對：2026-11-28（Asia/Tai
  pei）
-LAST-MODIFIED:20261126T003000Z
+LAST-MODIFIED:20261128T003000Z
 LOCATION:太平洋（加州外海）
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -261,12 +261,12 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [官方] Falcon 9 Cygnus XL NG-25（卡納維爾角）
 DTSTART:20261129T154000Z
 DTEND:20261129T160000Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:cygnus-ng-25-2026@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Northrop Grumman Cygnus NG-25 國際太空站貨運補給任
  務，由 Falcon 9 自佛羅里達 SLC-40 發射。一級計畫降落 LZ-4
  0。此時刻來自 Next Spaceflight／Launch Library 彙整，SpaceX 官
@@ -291,14 +291,21 @@ DESCRIPTION:Northrop Grumman Cygnus NG-25 國際太空站貨運補給任
  約 11\,000 磅貨物，12-01 由 Jessica Watkins 與 Luke Delaney 以 Can
  adarm2 捕獲並停靠 Unity 艙；一級 B1096 第 9 次飛行、降落 L
  Z-40；Northrop Grumman 另宣布再加購第 6 次 Falcon 9 發射 Cygnus
- （Antares 330 尚未就緒）。\n可信度：確定（官方已公布時
- 刻，仍可能滑移）。\n參考來源：\nhttps://www.spacex.com/launc
- hes/ng25\nhttps://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus
- -antares-waits/\nhttps://www.nasa.gov/news-release/nasa-sets-coverage-for-
- northrop-grumman-crs-25-launch-prelaunch/\nhttps://nextliftoff.com/launch/
- cygnus-crs-2-ng-25-d74afbc7\nhttps://nextspaceflight.com/launches/details/
- 7076/\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ （Antares 330 尚未就緒）。\n補充（2026-11-28 核對）：NASA 11
+ -27 部落格：太空站任務管理團隊 11-27（週五）評估後同
+ 意繼續發射準備；目標仍為 11-29 10:47 EST（台北 23:47），
+ 初步氣象預報 60% 適合發射，主要顧慮為厚雲層規則；下
+ 一個機會 11-30 10:24 EST（台北 23:24）。SpaceX 預計 11-28 將 F
+ alcon 9 推上發射台。日曆時段不變。\n可信度：確定（官
+ 方已公布時刻，仍可能滑移）。\n參考來源：\nhttps://www.s
+ pacex.com/launches/ng25\nhttps://www.nasa.gov/blogs/spacestation/2026/11/2
+ 7/nasa-partners-preps-on-track-for-sunday-space-station-cargo-launch/\nhtt
+ ps://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-wait
+ s/\nhttps://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grum
+ man-crs-25-launch-prelaunch/\nhttps://nextliftoff.com/launch/cygnus-crs-2-
+ ng-25-d74afbc7\nhttps://nextspaceflight.com/launches/details/7076/\n最後
+ 核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-40\, Cape Canaveral SFS\, Florida
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -309,12 +316,12 @@ SUMMARY:[SPCX] [媒體] Falcon 9 NROL-195（范登堡，NET 2026年12月
  ）
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:nrol-195-2026-11@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:國家偵察局 NROL-195 任務，Falcon 9 自范登堡發射
  。尚無精確時刻。\n更新（2026-11-21 核對）：Launch Library
  ／NextLiftoff 於 2026-11-20 把本任務由 NET 2026 年 11 月改為 NE
@@ -322,9 +329,9 @@ DESCRIPTION:國家偵察局 NROL-195 任務，Falcon 9 自范登堡發射
  早於 12 月、日期未定」，實際可能更晚。\n可信度：預
  計。\n參考來源：\nhttps://api.nextspaceflight.com/launches/agency/u
  pcoming/1/?search=\nhttps://nextspaceflight.com/launches/?search=SpaceX\nh
- ttps://nextliftoff.com/launch/nrol-195-56ca6058\n最後核對：2026-11-26
+ ttps://nextliftoff.com/launch/nrol-195-56ca6058\n最後核對：2026-11-28
  （Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-4E\, Vandenberg SFB\, California
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -335,20 +342,20 @@ SUMMARY:[SPCX] [媒體] Falcon 9 OneWeb #21（范登堡，NET 2026年12月
  ）
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:oneweb-21-2026-11@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Eutelsat OneWeb 第 21 次組網任務，Falcon 9 自范登堡
  發射。尚無精確時刻。\n更新（2026-11-21 核對）：Launch Lib
  rary／NextLiftoff 於 2026-11-20 把本任務由 NET 2026 年 11 月改
  為 NET 2026 年 12 月；日曆日期由 11-30 移到 12-31，僅為月
  份估算。\n可信度：預計。\n參考來源：\nhttps://api.nextspac
  eflight.com/launches/agency/upcoming/1/?search=\nhttps://nextliftoff.com/l
- aunch/oneweb-21-b0dc988c\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ aunch/oneweb-21-b0dc988c\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-4E\, Vandenberg SFB\, California
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -358,26 +365,30 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [官方] Falcon 9 MDA CHORUS（卡納維爾角 SLC-40）
 DTSTART:20261204T125500Z
 DTEND:20261204T132400Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:chorus-2026-12@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:MDA Space 的 CHORUS 地球觀測衛星任務，Falcon 9 自
  卡納維爾角 SLC-40 發射，一級降落陸上 Landing Zone。\n改期
  （2026-11-26 核對，官方公布窗口）：SpaceX 官網發射列表
  列出 2026-12-04 07:55–08:24 ET（UTC 12:55–13:24，台北 12-04 20:5
  5–21:24）；Launch Library 2026-11-25 同步改為 Go、NET 12-04 12:55
   UTC。日曆由原本「NET 12 月」的 12-15 全日估算，改為實
- 際發射窗口，來源標籤由 [媒體] 改為 [官方]。\n前一版
- ：Next Spaceflight 列為 NET 2026 年 12 月，日曆放在 12-15 全日
- （估算）。\n可信度：確定（官方已公布發射窗口，實際
- 升空時刻仍可能滑移）。\n參考來源：\nhttps://www.spacex.com
- /launches/\nhttps://ll.thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-
- aede-7b87e4beebab/\nhttps://api.nextspaceflight.com/launches/agency/upcomi
- ng/1/?search=\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 際發射窗口，來源標籤由 [媒體] 改為 [官方]。\n補充（20
+ 26-11-28 核對）：SpaceX 官網任務頁窗口不變（12-04 07:55 ET 
+ 開窗、29 分鐘），並列出備份機會 2026-12-05（週六）同一
+ 窗口（台北 12-05 20:55–21:24）；一級為第 15 次飛行，降
+ 落 LZ-40。\n前一版：Next Spaceflight 列為 NET 2026 年 12 月，
+ 日曆放在 12-15 全日（估算）。\n可信度：確定（官方已
+ 公布發射窗口，實際升空時刻仍可能滑移）。\n參考來源
+ ：\nhttps://www.spacex.com/launches/\nhttps://www.spacex.com/launches/mda
+ chorus\nhttps://ll.thespacedevs.com/2.3.0/launches/8bf5f61e-a7e1-41e6-aede
+ -7b87e4beebab/\nhttps://api.nextspaceflight.com/launches/agency/upcoming/1
+ /?search=\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-40\, Cape Canaveral SFS\, Florida
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -388,18 +399,18 @@ SUMMARY:[SPCX] [媒體] Falcon 9 Globalstar 2-R Mission 2（卡納維爾
  角，NET 2026年12月）
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:globalstar-2r-m2-2026-12@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Globalstar 第二代補充衛星（2-R）第二次發射，Fal
  con 9 自卡納維爾角發射。Next Spaceflight 列為 NET 2026 年 12 
  月。日曆日期 12-15 為月份估算。\n可信度：預計。\n參考
  來源：\nhttps://api.nextspaceflight.com/launches/agency/upcoming/1/?sea
- rch=\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ rch=\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-40\, Cape Canaveral SFS\, Florida
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -410,12 +421,12 @@ SUMMARY:[SPCX] [媒體] Falcon 9 Amazon Leo LF-04（卡納維爾角，NET
  2026年12月）
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:amazon-leo-lf-04-2026-12@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Amazon Leo（原 Project Kuiper）衛星組網任務 LF-04，
  由 Falcon 9 自卡納維爾角 SLC-40 發射。\n時程（2026-11-26 首
  次列入）：Launch Library／NextLiftoff 於 2026-11-24 更新為 NET 2
@@ -427,8 +438,8 @@ DESCRIPTION:Amazon Leo（原 Project Kuiper）衛星組網任務 LF-04，
  \nhttps://www.nextspaceflight.com/launches/details/8149/\nhttps://ll.thesp
  acedevs.com/2.3.0/launches/9b9db235-8ffb-4569-b09b-0e852ad231a0/\nhttps://
  arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-aft
- er-ula-fails-to-deliver/\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ er-ula-fails-to-deliver/\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-40\, Cape Canaveral SFS\, Florida
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -439,12 +450,12 @@ SUMMARY:[SPCX] [媒體] Starship Ship 43 靜態點火（Starbase，約 202
  6年12月中）
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:ship43-static-fire-2026-12@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:媒體與追蹤來源認為，預備擔任 Flight 16 的 Ship 
  43 預計於 2026 年 12 月中在 Starbase 進行靜態點火，之後才
  可能運往佛羅里達。這不是發射，而是為首次 LC-39A Starsh
@@ -454,13 +465,17 @@ DESCRIPTION:媒體與追蹤來源認為，預備擔任 Flight 16 的 Ship
  tarbase 追蹤頁亦寫 Ship 43 11 月初開始裝引擎、尚未點火，
  地面點火仍約在 12 月中。另據 NSF，Flight 16 可能改在 Star
  base 發射，若如此 Ship 43 不需再運往佛羅里達。日曆日期
- 不變。\n可信度：預計（非 SpaceX 官方宣布的日期）。Star
- base Events 頁面註明核對至 2026-11-10。\n參考來源：\nhttps://
- www.starbaseevents.com/flights/16\nhttps://www.nasaspaceflight.com/2026/10
- /spacex-flight-15-16-milestones/\nhttps://www.nasaspaceflight.com/2026/11/
- ship-42-catch-future/\nhttps://visit-starbase.com/launch\n最後核對：2
- 026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 不變。\n補充（2026-11-28 核對）：NASASpaceflight 11-26 Starship 
+ 更新（經 Starship Desk 彙整）：Ship 43 仍在 Mega Bay 2 安裝引
+ 擎，為 Flight 16／17 做準備，尚未點火；SpaceX 未公布。日
+ 曆日期不變。\n可信度：預計（非 SpaceX 官方宣布的日期
+ ）。Starbase Events 頁面註明核對至 2026-11-10。\n參考來源：
+ \nhttps://www.starbaseevents.com/flights/16\nhttps://www.nasaspaceflight.c
+ om/2026/10/spacex-flight-15-16-milestones/\nhttps://www.nasaspaceflight.co
+ m/2026/11/ship-42-catch-future/\nhttps://visit-starbase.com/launch\nhttps:
+ //starshipdesk.com/week/2026-W48/\n最後核對：2026-11-28（Asia/Taipei
+ ）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:Starbase\, Texas
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -471,12 +486,12 @@ SUMMARY:[SPCX] [媒體] Starship Flight 16：可能改自 Starbase Pad 2
  發射（約 2027 年 1 月，官方尚未宣布日期）
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:starship-flight-16@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Starship 第 16 次飛行。SpaceX 官網截至 2026-11-15 尚
  未公布 Flight 16 日期或載具。媒體普遍認為此行計畫成為
   Starship 首次自甘迺迪太空中心 LC-39A 發射，載具可能為 B
@@ -502,18 +517,24 @@ DESCRIPTION:Starship 第 16 次飛行。SpaceX 官網截至 2026-11-15 尚
  的 2026-12-10；TrackingTheSB 稱年底前仍有機會再飛一次。Spac
  eX 與 Elon 均未公布發射場。因 Ship 43 預計 1 月才可飛，
  日曆日期 2027-01-31 暫不變（僅為估算），標題與地點改
- 為 Starbase Pad 2（未證實）。\n背景：Flight 15 已於 2026-11-13
-  自 Starbase Pad 2 升空，並於 11-14 完成飛船回收相關操作
- 。\n可信度：預計／傳聞（發射地與時程均為媒體／追蹤
- 來源，官方未鎖定）。\n參考來源：\nhttps://www.nasaspaceflig
- ht.com/2026/11/ship-42-catch-future/\nhttps://starshipdesk.com/flights/F16
- /\nhttps://www.starbaseevents.com/flights/16\nhttps://www.nasaspaceflight.
- com/2026/10/spacex-flight-15-16-milestones/\nhttps://thespaceroad.com/arti
- cles/when-is-starship-flight-16/\nhttps://www.spacex.com/launches/starship
- -flight-15/\nhttps://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-
- taking-shape-but-some-big-questions-remain/\n最後核對：2026-11-26（A
- sia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 為 Starbase Pad 2（未證實）。\n補充（2026-11-28 核對）：Star
+ ship Desk 彙整 FAA 空管 CADENA 規劃會議簡報：11-25（及 11-19
+ ）簡報的「近期重點任務」已不再列出 Flight 16（Starlink 3
+ 0-1）的 12-10（10-08 至 11-05 簡報均有列），未說明原因也
+ 無新日期，與日曆採用的 2027 年初估算一致。NSF 11-26：Sh
+ ip 43 仍在 Mega Bay 2 裝引擎。日曆日期不變。\n背景：Flight
+  15 已於 2026-11-13 自 Starbase Pad 2 升空，並於 11-14 完成飛
+ 船回收相關操作。\n可信度：預計／傳聞（發射地與時程
+ 均為媒體／追蹤來源，官方未鎖定）。\n參考來源：\nhttp
+ s://www.nasaspaceflight.com/2026/11/ship-42-catch-future/\nhttps://starshi
+ pdesk.com/flights/F16/\nhttps://www.starbaseevents.com/flights/16\nhttps:/
+ /www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/\nhttps://
+ thespaceroad.com/articles/when-is-starship-flight-16/\nhttps://starshipdes
+ k.com/week/2026-W48/\nhttps://www.spacex.com/launches/starship-flight-15/
+ \nhttps://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shap
+ e-but-some-big-questions-remain/\n最後核對：2026-11-28（Asia/Taipei
+ ）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:Starbase Pad 2\, Texas（媒體報導，未證實；原規劃 LC-
  39A）
 STATUS:TENTATIVE
@@ -525,12 +546,12 @@ SUMMARY:[SPCX] [媒體] Falcon Heavy Griffin Mission One（NET 2027-01-06
  ）
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:griffin-mission-one-2027@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Astrobotic Griffin 月球著陸器（NASA CLPS）由 Falcon He
  avy 自 LC-39A 發射，進入地月轉移軌道。Next Spaceflight 註記
  此任務預計嘗試自 2019 年 STP-2 以來首次回收 Falcon Heavy 
@@ -538,8 +559,8 @@ DESCRIPTION:Astrobotic Griffin 月球著陸器（NASA CLPS）由 Falcon He
  載荷。\n目標：不早於 2027-01-06（NET）。日曆日期即此 NET
   日，實際可能延後。\n可信度：預計。\n參考來源：\nhttp
  s://www.nextspaceflight.com/launches/details/6759/\n最後核對：2026-11
- -26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ -28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:LC-39A\, Kennedy Space Center\, Florida
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -550,12 +571,12 @@ SUMMARY:[SPCX] [媒體] Crew Dragon Axiom Mission 5（Ax-5，NET 2027年1
  月）
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:axiom-ax-5-2027-01@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Axiom Space 第五次私人載人任務，Crew Dragon／Falcon
   9 自卡納維爾角飛往國際太空站。NASA 已選定 Axiom 執行
  第五次私人太空人任務；Next Spaceflight 列為 NET 2027 年 1 
@@ -563,8 +584,8 @@ DESCRIPTION:Axiom Space 第五次私人載人任務，Crew Dragon／Falcon
  月」估算。\n可信度：預計。\n參考來源：\nhttps://www.nexts
  paceflight.com/launches/details/8159/\nhttps://www.nasa.gov/news-release/n
  asa-selects-axiom-space-for-fifth-private-mission-to-space-station/\n最
- 後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-40\, Cape Canaveral SFS\, Florida
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -575,12 +596,12 @@ SUMMARY:[SPCX] [媒體] Falcon 9 發射 Vast Haven-1 商業太空站（目
  標 2027 年年初／第一季）
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:haven-1-2027-q1@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Vast 的 Haven-1 計畫成為首座商業太空站，由 Space
  X Falcon 9 發射（無人），再以 Crew Dragon 運送四人乘組。Va
  st 官網寫「targeted to launch in 2027」。2026-09-18 Aviation Week 
@@ -588,8 +609,8 @@ DESCRIPTION:Vast 的 Haven-1 計畫成為首座商業太空站，由 Space
  日曆日期 02-15 為「年初／Q1」估算。\n可信度：預計。\n
  參考來源：\nhttps://www.vastspace.com/haven-1\nhttps://aviationweek.c
  om/space/space-exploration/vast-maintains-early-2027-haven-1-launch\n最
- 後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:Cape Canaveral\, Florida（媒體彙整）
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -600,12 +621,12 @@ SUMMARY:[SPCX] [官方] Starship 上層級（飛船）首次再飛（目
  標 2027 年年初）
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:starship-ship-reflight-2027@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:SpaceX 總裁 Gwynne Shotwell 在 2026-10-20 財報電話會
  表示，公司將在「明年年初」（early 2027）嘗試讓一枚已
  飛過的 Starship 上層級再飛。這是完全重複使用的關鍵步
@@ -634,8 +655,8 @@ DESCRIPTION:SpaceX 總裁 Gwynne Shotwell 在 2026-10-20 財報電話會
  \nhttps://www.spacexfrance.com/ship-42-exposition/\nhttps://www.space.com/
  space-exploration/launches-spacecraft/spacex-will-retire-1st-starship-uppe
  r-stage-ever-caught-by-chopsticks-elon-musk-says\n最後核對：2026-11-2
- 6（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 8（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SpaceX（發射場待公布）
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -647,18 +668,18 @@ SUMMARY:[SPCX] [媒體] Falcon 9 Intuitive Machines IM-3（Nova-C，NET 20
  27 第一季）
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:im-3-2027-q1@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Intuitive Machines 第三次 Nova-C 月球著陸任務（IM-3
  ），由 Falcon 9 發射。Next Spaceflight 列為 NET 2027 年第一季
  。日曆日期 03-01 為季度估算，並非鎖定發射日。\n可信
  度：預計。\n參考來源：\nhttps://www.nextspaceflight.com/launches
- /details/6826/\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ /details/6826/\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:Florida（媒體彙整）
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -668,20 +689,20 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [媒體] Crew Dragon Crew-14（NET 2027年3月）
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:crew-14-2027-03@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:NASA 與 SpaceX 的第 14 次作業載人任務，Crew Dragon 
  前往國際太空站，預計輪替 Crew-13。Next Spaceflight 列為 NET
   2027 年 3 月。NASA 已公布 Crew-14 乘組指派。日曆日期 03-15
   為「3 月」估算。\n可信度：預計。\n參考來源：\nhttps://
  www.nextspaceflight.com/launches/details/6972/\nhttps://www.nasa.gov/news-
  release/nasa-shares-spacex-crew-14-assignments-for-space-station-mission/
- \n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ \n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-40\, Cape Canaveral SFS\, Florida
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -692,12 +713,12 @@ SUMMARY:[SPCX] [官方] Starship 軌道推進劑轉注演示（目標 2027
   年年初／第一季）
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:starship-propellant-transfer-2027@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Starship 對 Starship（或原型儲罐／加油船）在低
  地球軌道進行低溫推進劑轉注，是 Artemis 登月架構與深
  空任務的關鍵里程碑。Shotwell 在 2026-10-20 財報會說，公
@@ -720,9 +741,9 @@ DESCRIPTION:Starship 對 Starship（或原型儲罐／加油船）在低
  8-moon-missions/\nhttps://arstechnica.com/space/2026/11/nasas-new-moon-pla
  n-is-taking-shape-but-some-big-questions-remain/\nhttps://www.techtimes.co
  m/articles/331315/20261123/nasa-artemis-program-faces-major-milestone-spac
- ex-advances-starship-refueling.htm\n最後核對：2026-11-26（Asia/Taipe
+ ex-advances-starship-refueling.htm\n最後核對：2026-11-28（Asia/Taipe
  i）
-LAST-MODIFIED:20261126T003000Z
+LAST-MODIFIED:20261128T003000Z
 LOCATION:低地球軌道（發射場待公布）
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -734,20 +755,20 @@ SUMMARY:[SPCX] [官方] Crew-13 Dragon 返回地球（目標 2027年4月
  ）
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:crew-13-return-2027-04@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Crew-13 乘組已於 2026-10-01 發射並對接國際太空站
  。SpaceX 官網「Return Date」欄列出 Crew-13 返回為 April 2027。
  日曆日期 04-15 為「4 月」估算，精確濺落日尚未公布。
  返回時程通常取決於 Crew-14 等後續任務。\n可信度：預計
  （官方已給月份）。\n參考來源：\nhttps://www.spacex.com/launc
  hes/next-launch\nhttps://www.spacex.com/launches/crew13\n最後核對：20
- 26-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 26-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:返回濺落區待公布
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -758,18 +779,18 @@ SUMMARY:[SPCX] [媒體] Falcon 9 土耳其月球任務 TLM-1（NET 2027年
  4月）
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:turkish-lunar-mission-1-2027-04@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:土耳其月球任務-1（Turkish Lunar Mission 1\, TLM-1）
  ，Next Spaceflight 列為 Falcon 9、NET 2027 年 4 月、卡納維爾角
   SLC-40。日曆日期 04-20 為月份估算。\n可信度：預計。\n
  參考來源：\nhttps://api.nextspaceflight.com/launches/agency/upcoming/
- 1/?search=\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 1/?search=\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-40\, Cape Canaveral SFS\, Florida（媒體彙整）
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -780,12 +801,12 @@ SUMMARY:[SPCX] [官方] Elon：Starship 力拚 2027 上半年達到每週
  發射
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:starship-weekly-cadence-2027-h1@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Elon Musk 在 2026-10-20 SpaceX 財報電話會表示，他預
  期 Starship 在 2027 年上半年達到「每週」發射節奏，並稱
  關鍵在於快速、完整的重複使用。Ars Technica 同時提醒，M
@@ -793,24 +814,24 @@ DESCRIPTION:Elon Musk 在 2026-10-20 SpaceX 財報電話會表示，他預
  」這個目標區間的結尾，不是某一場發射的鎖定日。\n可
  信度：Elon 說法。\n參考來源：\nhttps://arstechnica.com/space/20
  26/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/
- \n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ \n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
  kly-starship-launches-by-early-2027/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[SPCX] [官方] 2027 年 Starship 持續部署 Starlink V3，並
- 發射 Starmind 資料中心原型
-DTSTART;VALUE=DATE:20270615
-DTEND;VALUE=DATE:20270616
-DTSTAMP:20261126T003000Z
+SUMMARY:[SPCX] [官方] 2027 年 Starship 持續部署 Starlink V3；Starm
+ ind 首批太空運算衛星發射（Elon：約 2027 第三季）
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+DTSTAMP:20261128T003000Z
 UID:starmind-starlink-v3-2027@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Shotwell 在 2026-10-20 財報會表示，2027 年 Starship 
  將主要發射自家載荷：繼續發射 Starlink V3（新一代寬頻
  ／直連手機相關衛星），以及 Starmind 太空資料中心原型
@@ -830,22 +851,37 @@ DESCRIPTION:Shotwell 在 2026-10-20 財報會表示，2027 年 Starship
  失去執照。FCC 主席 Brendan Carr 在 X 宣布此為美國首例太
  空資料中心授權；Elon Musk 回覆「Much appreciated. This will be 
  a great asset to America and the world.」。2027 年原型發射計畫的
- 日曆日期不變。\n可信度：預計（公司公開計畫）／部分
- 為 Elon 說法。\n參考來源：\nhttps://arstechnica.com/space/2026/10
- /spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/\nhtt
- ps://x.com/elonmusk/status/2121501324663832873\nhttps://x.com/elonmusk/sta
- tus/2121640541221785669\nhttps://eu-assets.contentstack.com/v3/assets/blt2
- 3eb5bbc4124baa6/blt3284fad4ee39d97e/6b071287af911015536d731d/FCC_Authorize
- s_1_Million_Satellites_for_Data_Centers_in_Space_PR_11-25-2026.pdf\nhttps:
- //eu-assets.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltf4cdf2af4715
- 9e12/6b071c5f5506bb38bca5b0ec/FCC_report_and_order_on_SpaceX_Starmind_AI_c
- onstellation_11-25-2026.pdf\nhttps://x.com/BrendanCarrFCC/status/212562302
- 6918002860\nhttps://x.com/elonmusk/status/2125630856140308743\nhttps://tec
- hcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-
- space/\nhttps://www.satellitetoday.com/connectivity/2026/11/25/fcc-approve
- s-spacexs-1-million-satellite-orbital-data-center-constellation/\n最後
- 核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 日曆日期不變。\n改期（2026-11-28 核對）：Spaceflight Now 11-
+ 26 報導 FCC 授權時引述 Elon 在 Baron 投資大會（2026-11-06）
+ 的說法：「我們預計開始發射與 NVIDIA 共同設計的第一批
+  Starmind 運算衛星，大概——我只是猜——在明年第三季
+ 」，之後「先慢後快，2028 年達到可觀數量、2029 年非常
+ 大量」。他認為要達到每年數百 GW 甚至 TW 級運算，地面
+ 電力不夠，必須上太空（太空日照不斷、太陽能多約 30%
+ ），而完全重複使用的 Starship 會把進入太空成本降 100 
+ 倍以上。Starmind 衛星將在德州 Bastrop 製造、由 Starship 發
+ 射。日曆日期由 2027-06-15（年度計畫標記）改為 2027-08-15
+ （「2027 第三季」估算，非官方發射日）。\n可信度：預
+ 計（公司公開計畫）／首發時間為 Elon 說法（他自稱是
+ 猜測）。\n參考來源：\nhttps://arstechnica.com/space/2026/10/space
+ x-will-attempt-to-reach-weekly-starship-launches-by-early-2027/\nhttps://s
+ paceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-mil
+ lion-starmind-data-center-satellites/\nhttps://www.investmentnews.com/equi
+ ties/elon-musk-touts-data-centers-in-space-at-baron-investment-conference/
+ 268925\nhttps://www.bbc.co.uk/news/articles/cwp836l8n1jgo\nhttps://x.com/e
+ lonmusk/status/2121501324663832873\nhttps://x.com/elonmusk/status/21216405
+ 41221785669\nhttps://eu-assets.contentstack.com/v3/assets/blt23eb5bbc4124b
+ aa6/blt3284fad4ee39d97e/6b071287af911015536d731d/FCC_Authorizes_1_Million_
+ Satellites_for_Data_Centers_in_Space_PR_11-25-2026.pdf\nhttps://eu-assets.
+ contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltf4cdf2af47159e12/6b071c5
+ f5506bb38bca5b0ec/FCC_report_and_order_on_SpaceX_Starmind_AI_constellation
+ _11-25-2026.pdf\nhttps://x.com/BrendanCarrFCC/status/2125623026918002860\n
+ https://x.com/elonmusk/status/2125630856140308743\nhttps://techcrunch.com/
+ 2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/\nhttp
+ s://www.satellitetoday.com/connectivity/2026/11/25/fcc-approves-spacexs-1-
+ million-satellite-orbital-data-center-constellation/\n最後核對：2026-
+ 11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
@@ -856,12 +892,12 @@ SUMMARY:[SPCX] [官方] Artemis III：Orion 與 Starship 測試載具在
  近地軌道對接演示（目標 2027 年）
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:artemis-iii-2027@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:NASA 官方：Artemis III 將於 2027 年把四名太空人乘
   Orion／SLS 送入近地軌道，進行為期約 14 天的演示，以為
   2028 年載人登月降低風險。任務中 Blue Origin 先發射 Blue M
@@ -883,8 +919,8 @@ DESCRIPTION:NASA 官方：Artemis III 將於 2027 年把四名太空人乘
  ceamerica.aiaa.org/nasa-eyeing-year-end-tanking-test-and-summer-2027-launc
  h-for-artemis-iii/\nhttps://arstechnica.com/space/2026/11/nasas-new-moon-p
  lan-is-taking-shape-but-some-big-questions-remain/\n最後核對：2026-11
- -26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ -28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:近地軌道（Starship 計畫自佛羅里達發射）
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -896,12 +932,12 @@ SUMMARY:[SPCX] [官方] Starship HLS 無人登月演示（須在 2028 載
  人登月前完成，日期未定）
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271116
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:hls-uncrewed-lunar-demo@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:NASA 要求 Blue Origin 與 SpaceX 都必須在近程載人登
  月任務之前，先以各自的載人登陸器用無人任務演示完
  整剖面。對 SpaceX 而言，這代表無人 Starship HLS 需完成相
@@ -920,8 +956,8 @@ DESCRIPTION:NASA 要求 Blue Origin 與 SpaceX 都必須在近程載人登
  來源：\nhttps://www.nasa.gov/missions/artemis/nasa-partners-accelerate-
  lander-development-for-2028-moon-missions/\nhttps://arstechnica.com/space/
  2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/
- \n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ \n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:地月空間（發射場待公布）
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -933,19 +969,19 @@ SUMMARY:[SPCX] [官方] Elon：Starship 力拚 2027 下半年達到每週
  兩次發射
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:starship-twice-weekly-2027-h2@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Elon Musk 在 2026-10-20 財報電話會表示，預期 Starsh
  ip 在 2027 年下半年達到每週兩次發射。日曆日期 12-31 代
  表該目標區間的結尾，不是某一場發射的鎖定日。\n可信
  度：Elon 說法。\n參考來源：\nhttps://arstechnica.com/space/2026/
  10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/\n
- 最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
@@ -956,12 +992,12 @@ SUMMARY:[SPCX] [官方] SpaceX／xAI 相關：2027 年力拚地面運算
  達約 10 GW（財報會目標）
 DTSTART;VALUE=DATE:20271231
 DTEND;VALUE=DATE:20280101
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:spacex-10gw-compute-2027@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Ars Technica 報導 2026-10-20 財報會：SpaceX 管理層花
  大量時間討論 2027 年在地面部署高達約 10 GW 運算的計畫
  （與 xAI／AI 運算相關），同時長期仍提到以 Starlink 與未
@@ -979,8 +1015,8 @@ DESCRIPTION:Ars Technica 報導 2026-10-20 財報會：SpaceX 管理層花
  llo-and-goldman-sachs-announce-pricing-of-44-billion-spacex-gpu-financing-
  3407671\nhttps://www.investing.com/news/stock-market-news/apollo-goldman-l
  ead-44-billion-spacex-gpu-debt-financing-5042346\n最後核對：2026-11-2
- 6（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 8（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-wee
@@ -991,12 +1027,12 @@ SUMMARY:[SPCX] [官方] Artemis IV：目標 2028 年載人重返月球（S
  tarship 或 Blue Moon，尚未指派）
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:artemis-iv-2028@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:NASA 官方目標是 2028 年讓美國太空人重返月面。
  在調整後的架構中，SpaceX Starship 計畫在地球軌道加油，
  與 Orion 在地球軌道交會對接，再由 Starship 推進組合體前
@@ -1011,8 +1047,8 @@ DESCRIPTION:NASA 官方目標是 2028 年讓美國太空人重返月面。
  lerate-artemis-return-to-moon/\nhttps://www.nasa.gov/missions/artemis/nasa
  -partners-accelerate-lander-development-for-2028-moon-missions/\nhttps://a
  rstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-
- big-questions-remain/\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ big-questions-remain/\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:地月空間
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -1024,12 +1060,12 @@ SUMMARY:[SPCX] [媒體] 無人 Starship 火星貨運：改為不早於 202
  8／2029 發射窗口（已放棄 2026 窗口）
 DTSTART;VALUE=DATE:20281202
 DTEND;VALUE=DATE:20281203
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:starship-mars-uncrewed-2028-window@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:2026 年火星最低能量發射窗口約在 2026 年 9 月底
  至 12 月初（最佳日約 10-31），但多家媒體與追蹤來源指
  出，SpaceX 在 2026 年 2 月把近程重點轉向月球，無人 Starsh
@@ -1042,8 +1078,8 @@ DESCRIPTION:2026 年火星最低能量發射窗口約在 2026 年 9 月底
  （2026-02-06）《SpaceX delays Mars plans to focus on 2027 moon landing
  \, WSJ reports》。\n參考來源：\nhttps://myspacebase.com/mars-window
  \nhttps://en.wikipedia.org/wiki/List_of_Starship_launches\n最後核對：
- 2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:火星轉移軌道
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -1053,12 +1089,12 @@ BEGIN:VEVENT
 SUMMARY:[SPCX] [媒體] Falcon 9 NROL-132（范登堡，NET 2026-12-02）
 DTSTART:20261202T203000Z
 DTEND:20261203T003000Z
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:nrol-132-2026-12@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:國家偵察局 NROL-132 任務：Falcon 9 自范登堡 SLC-4E
   發射，載 SpaceX 與 Northrop Grumman 為 NRO 建造的擴散式偵察
  星座第 16 批衛星；一級計畫降落太平洋無人船 Of Course I 
@@ -1071,8 +1107,8 @@ DESCRIPTION:國家偵察局 NROL-132 任務：Falcon 9 自范登堡 SLC-4E
  來源：\nhttps://nextspaceflight.com/launches/details/8476/\nhttps://nex
  tliftoff.com/launch/nrol-132-5591cfa3\nhttps://805.life/launches/articles/
  preview-falcon-9-block-5-nrol-132-2026-12-02-eb8878a1\n最後核對：2026
- -11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ -11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:SLC-4E\, Vandenberg SFB\, California
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -1083,12 +1119,12 @@ SUMMARY:[SPCX] [媒體] Starship Booster 23 靜態點火（Starbase Pad 2
  ，約 2026年12月上旬）
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:booster23-static-fire-2026-12@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:預定用於 Flight 16 的 Super Heavy Booster 23 將在 Starb
  ase Pad 2 進行靜態點火（地面測試，不是發射）。NASASpacef
  light 2026-11-20 報導：Pad 2 在 Flight 15 後整備完成即進行，
@@ -1098,9 +1134,9 @@ DESCRIPTION:預定用於 Flight 16 的 Super Heavy Booster 23 將在 Starb
  週。日曆日期 12-05 為「12 月上旬」估算，不是官方日期
  。\n可信度：預計（媒體／追蹤來源，官方未公布）。\n
  參考來源：\nhttps://www.nasaspaceflight.com/2026/11/ship-42-catch-fut
- ure/\nhttps://starshipdesk.com/flights/F16/\n最後核對：2026-11-26（A
+ ure/\nhttps://starshipdesk.com/flights/F16/\n最後核對：2026-11-28（A
  sia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+LAST-MODIFIED:20261128T003000Z
 LOCATION:Starbase Pad 2\, Texas
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -1111,12 +1147,12 @@ SUMMARY:[SPCX] [媒體] Starship 首次自佛羅里達 LC-39A 發射（可
  能改為 Flight 17／Booster 24＋Ship 44，不早於 2027年2月）
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:starship-first-lc39a-launch@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Starship 首次自甘迺迪太空中心 LC-39A 發射的里程
  碑。原本媒體預期由 Flight 16 擔任；NASASpaceflight 2026-11-20 
  報導，若 Flight 16 改在 Starbase 發射，LC-39A 首飛將延到「
@@ -1132,8 +1168,8 @@ DESCRIPTION:Starship 首次自甘迺迪太空中心 LC-39A 發射的里程
  ：\nhttps://www.nasaspaceflight.com/2026/11/ship-42-catch-future/\nhttps:
  //starshipdesk.com/flights/F16/\nhttps://arstechnica.com/space/2026/11/nas
  as-new-moon-plan-is-taking-shape-but-some-big-questions-remain/\n最後核
- 對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 LOCATION:LC-39A\, Kennedy Space Center\, Florida
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
@@ -1144,12 +1180,12 @@ SUMMARY:[SPCX] [Elon X] Starlink 內建於所有 Tesla 車款（中國除
  外），Elon：希望 2027 年底前推出
 DTSTART;VALUE=DATE:20271215
 DTEND;VALUE=DATE:20271216
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:tesla-starlink-all-models-2027@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Elon Musk 2026-11-23（台北 09:15）在 X 回覆「希望 Te
  sla 所有車款都提供內建 Starlink 選項」時說：「Hopefully av
  ailable towards the end of next year.」並表示這對無人監督 FSD 
@@ -1161,8 +1197,8 @@ DESCRIPTION:Elon Musk 2026-11-23（台北 09:15）在 X 回覆「希望 Te
  opefully」，Elon 的時程經常延後）。\n參考來源：\nhttps://x
  .com/elonmusk/status/2124673053246312848\nhttps://x.com/elonmusk/status/21
  24678745629790551\nhttps://x.com/SawyerMerritt/status/2124675012582093283
- \n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ \n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://x.com/elonmusk/status/2124673053246312848
@@ -1172,12 +1208,12 @@ SUMMARY:[SPCX] [媒體/傳聞] Tesla 與 SpaceX 合併案：最快 2026
  年 12 月宣布（傳聞）
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261126T003000Z
+DTSTAMP:20261128T003000Z
 UID:tesla-spacex-merger-2026-12@spacex-timeline
 SEQUENCE:0
 CATEGORIES:SpaceX,時間表
 CLASS:PUBLIC
-CREATED:20261126T003000Z
+CREATED:20261128T003000Z
 DESCRIPTION:Reuters 2026-11-24 引述金融時報：Tesla 與 SpaceX 已
  指派五名董事（SpaceX 的 Roelof Botha、Randy Glein；Tesla 的 Rob
  yn Denholm、Kathleen Wilson-Thompson、Jack Hartung）主導兩個特別
@@ -1186,20 +1222,143 @@ DESCRIPTION:Reuters 2026-11-24 引述金融時報：Tesla 與 SpaceX 已
  ，換股比例未定。Bloomberg 稍早報導交易最快可能在 12 月
  宣布；Yahoo Finance 稱可能在年底前達成。Elon 曾在 SpaceX 
  第三季財報會說合併是「a good idea」，並證實已成立特別
- 委員會。\n日曆日期 2026-12-31 代表「12 月／年底前」的傳
- 聞時間窗，不是官方日期；即使宣布，仍需股東批准並
- 面臨監管審查。\n可信度：傳聞（媒體引述知情人士，公
- 司未正式宣布時程）。\n參考來源：\nhttps://www.investing.com
- /news/stock-market-news/spacex-and-tesla-entrusts-five-directors-for-merge
- r-talks-ft-reports-5047055\nhttps://finance.yahoo.com/technology/article/t
- esla-and-spacex-assemble-deal-teams-for-a-merger-that-could-give-musk-majo
- rity-control-144555932.html\nhttps://www.investing.com/news/stock-market-n
- ews/possible-tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says-50
- 48726\n最後核對：2026-11-26（Asia/Taipei）
-LAST-MODIFIED:20261126T003000Z
+ 委員會。\n補充（2026-11-28 核對）：Electrek 11-24 引述 FT：
+ 談判朝「年底期限」推進，若在 12-31 前簽約，可趕在 202
+ 7-01-03 新國會就任前（民主黨揚言調查 Musk 旗下公司），
+ 但知情人士稱協議「尚未接近」；交易需 Tesla 全部流通
+ 股過半數同意（非僅出席票）。Asia Today 11-27 綜合報導：
+ 換股比例與 Musk 對合併後公司的控制權是主要爭點，合
+ 併後估值約 3.5 兆美元。仍無正式宣布，日曆日期不變。
+ \n日曆日期 2026-12-31 代表「12 月／年底前」的傳聞時間窗
+ ，不是官方日期；即使宣布，仍需股東批准並面臨監管
+ 審查。\n可信度：傳聞（媒體引述知情人士，公司未正式
+ 宣布時程）。\n參考來源：\nhttps://www.investing.com/news/stock-
+ market-news/spacex-and-tesla-entrusts-five-directors-for-merger-talks-ft-r
+ eports-5047055\nhttps://finance.yahoo.com/technology/article/tesla-and-spa
+ cex-assemble-deal-teams-for-a-merger-that-could-give-musk-majority-control
+ -144555932.html\nhttps://www.investing.com/news/stock-market-news/possible
+ -tesla-merger-could-aid-spacexs-sp-500-entry-jp-morgan-says-5048726\nhttps
+ ://electrek.co/2026/11/24/tesla-spacex-merger-year-end-deadline-new-congre
+ ss/\nhttps://en.asiatoday.co.kr/view.php?key=20261127000902454\n最後核
+ 對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 URL:https://www.investing.com/news/stock-market-news/spacex-and-tesla-entr
  usts-five-directors-for-merger-talks-ft-reports-5047055
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SPCX] [Elon X] SpaceX 公司股份轉入美國兒童 Trump Accoun
+ ts（每戶 1 股，Elon：2026 年 12 月轉移）
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20261128T003000Z
+UID:spacex-trump-accounts-share-2026-12@spacex-timeline
+SEQUENCE:0
+CATEGORIES:SpaceX,時間表
+CLASS:PUBLIC
+CREATED:20261128T003000Z
+DESCRIPTION:SpaceX 2026-11-25（美東）投資人公告：承諾向每一
+ 個「目前有效」的 Trump Account（美國兒童免稅投資帳戶）
+ 各發行並捐贈 1 股 SpaceX A 類普通股；Elon Musk 將以個人持
+ 股等量配捐；總裁 Gwynne Shotwell 另已宣布個人捐出逾 200 
+ 萬股（CNBC 稱預計 12 月入帳）。公告註明需第三方與政
+ 府核准。\nElon X（2026-11-26 台北 11:43）：「美國每個孩子
+ 都會拿到兩股 SpaceX，一股來自公司，一股來自我個人。
+ 」（台北 14:01）補充：「公司那一股下個月轉移；我個
+ 人那一股在明年 6 月禁售期結束時轉移。」（11-27 台北 0
+ 5:24）又說他「每年都會再捐一股 SpaceX 給全美孩子」。
+ 他的想法是讓下一代擁有打造多行星未來的公司股份；Ax
+ ios 估算以 11-25 收盤價、約 7\,200 萬名未成年人計，兩股
+ 總值約 183.5 億美元。CNBC 指出 SpaceX 與財政部未回應細節
+ ，實際有效帳戶數不明。\n日曆日期 2026-12-15 代表「12 月
+ 」（Elon 說法，未給確切日期），不是官方轉移日。Elon 
+ 個人配捐另列為 2027 年 6 月事件。\n可信度：Elon 說法（
+ 捐股承諾為官方公告；12 月轉移時間僅 Elon 在 X 表示）
+ 。\n參考來源：\nhttps://x.com/elonmusk/status/2125832205301878841\nh
+ ttps://x.com/elonmusk/status/2125797463047258119\nhttps://x.com/elonmusk/s
+ tatus/2126064597039997254\nhttps://x.com/SpaceX/status/2125671356339499494
+ \nhttps://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Invest-in-
+ the-Next-Generation-of-Americans-2026-r_LYQ5cH94/default.aspx\nhttps://www
+ .axios.com/2026/11/26/musk-spacex-shares-trump-accounts\nhttps://www.cnbc.
+ com/2026/11/25/spacex-musk-trump-account-stock.html\nhttps://www.cnbc.com/
+ 2026/11/27/spacex-shares-musk-donations.html\nhttps://indianexpress.com/ar
+ ticle/world/us-news/elon-musk-2-spacex-shares-every-us-child-trump-account
+ -dateline-10979085/\n最後核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://x.com/elonmusk/status/2125832205301878841
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SPCX] [Elon X] Elon 個人配捐 SpaceX 股份轉入美國兒童 
+ Trump Accounts（禁售期屆滿，約 2027 年 6 月）
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+DTSTAMP:20261128T003000Z
+UID:musk-trump-accounts-share-2027-06@spacex-timeline
+SEQUENCE:0
+CATEGORIES:SpaceX,時間表
+CLASS:PUBLIC
+CREATED:20261128T003000Z
+DESCRIPTION:Elon Musk 承諾以個人持股等量配捐 SpaceX 對每個
+ 有效 Trump Account 捐出的 1 股。Elon X（2026-11-26 台北 14:01）
+ ：「我個人那一股在明年 6 月禁售期（lockup）結束時轉
+ 移。」SpaceX 於 2026-06-12 在 Nasdaq 上市，Elon 的 IPO 禁售期
+ 約於 2027 年 6 月屆滿。\n日曆日期 2027-06-15 為「2027 年 6 
+ 月」估算，不是確切轉移日。公司那一股另列為 2026 年 1
+ 2 月事件。\n可信度：Elon 說法。\n參考來源：\nhttps://x.com
+ /elonmusk/status/2125832205301878841\nhttps://ir.spacex.com/updates/releas
+ es-details/2026/SpaceX-to-Invest-in-the-Next-Generation-of-Americans-2026-
+ r_LYQ5cH94/default.aspx\nhttps://www.axios.com/2026/11/26/musk-spacex-shar
+ es-trump-accounts\nhttps://indianexpress.com/article/world/us-news/elon-mu
+ sk-2-spacex-shares-every-us-child-trump-account-dateline-10979085/\n最後
+ 核對：2026-11-28（Asia/Taipei）
+LAST-MODIFIED:20261128T003000Z
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+URL:https://x.com/elonmusk/status/2125832205301878841
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[SPCX] [官方] SpaceX Colossus 3 超算園區：亞利桑那 Coch
+ ise 郡規劃委員會公聽與表決（SU26-22）
+DTSTART:20261209T210000Z
+DTEND:20261210T030000Z
+DTSTAMP:20261128T003000Z
+UID:colossus-3-cochise-pz-hearing-2026-12-09@spacex-timeline
+SEQUENCE:0
+CATEGORIES:SpaceX,時間表
+CLASS:PUBLIC
+CREATED:20261128T003000Z
+DESCRIPTION:SpaceX（申請人為全資子公司 Tombstone Resources LLC
+ ）在亞利桑那州 Cochise 郡 US-191 旁約 747 英畝土地申請特
+ 別使用許可 SU26-22，興建最多 9 棟運算大樓、滿載約 6 GW
+ 、約 24 GWh 電池儲能的超級運算園區；Elon 於 X 命名為「S
+ paceX Colossus 3」。郡規劃與分區委員會（Planning and Zoning Co
+ mmission）2026-12-09 14:00–20:00 MST（UTC 21:00–12-10 03:00，台北
+  12-10 05:00–11:00）開會審理；KJZZ 報導委員會預計當天表
+ 決，若多數通過即可推進，除非郡監事會提起上訴。\nSpa
+ ceX 立場：X（2026-11-26 台北 01:07）稱園區無燃氣電廠、無
+ 工業用水、採乾式冷卻閉迴路，將投資逾 500 億美元、創
+ 造 1\,000 個常設與最多 5\,500 個營建工作，自付電費並出
+ 資 36 億美元升級電網；SpaceX 11-24 致委員會函請求不要因
+ 州檢察長 11-19 來函而延後 12-09 公聽。後續仍須亞利桑那
+ 公用事業委員會（ACC）核准供電協議，以及州環保、交
+ 通等審查。\n可信度：確定（郡政府公告的會議時間；表
+ 決結果與是否延期仍未知）。\n參考來源：\nhttps://www.coch
+ ise.az.gov/m/calendar/event/detail/2988\nhttps://content.spacex.com/cms-as
+ sets/assets/SpaceX%20Letter%20to%20Commission%20SU26-22%20-Final%20(letter
+ %20only).pdf\nhttps://www.spacex.com/sites/cochise-county\nhttps://x.com/S
+ paceX/status/2125637438710153247\nhttps://x.com/elonmusk/status/2125667762
+ 324541673\nhttps://www.kjzz.org/business/2026-11-27/planned-mega-data-cent
+ er-in-cochise-county-revealed-as-spacexs-colossus-3\nhttps://americanbuild
+ out.com/cochise-county-supercompute-campus/\n最後核對：2026-11-28（A
+ sia/Taipei）
+LAST-MODIFIED:20261128T003000Z
+LOCATION:Cochise County Complex\, 1415 W. Melody Lane\, Building G\, Bisbe
+ e\, Arizona（亦可線上參加）
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cochise.az.gov/m/calendar/event/detail/2988
 END:VEVENT
 END:VCALENDAR
